@@ -1,0 +1,14 @@
+{
+  "name": "simple-class",
+  "version": "0.1.0",
+  "description": "A simple helper class to create class.",
+  "main": "class.js",
+  "scripts": {
+    "test": "nodeunit"
+  },
+  "author": "yangchen@thinkmore.info",
+  "license": "ISC",
+  "devDependencies": {
+    "nodeunit": "^0.10.2"
+  }
+}
