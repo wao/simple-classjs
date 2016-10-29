@@ -1,8 +1,13 @@
 {
-  "name": "simple-class",
+  "name": "simple-classjs",
   "version": "0.1.0",
   "description": "A simple helper class to create class.",
   "main": "class.js",
+"repository": {
+    "type": "git",
+    "url": "https://github.com/wao/simple-classjs.git"
+  },
+
   "scripts": {
     "test": "nodeunit"
   },
